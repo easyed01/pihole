@@ -1,7 +1,12 @@
-# Title: Ed's custom ads list
-# Description: ads list block for pihole
-# Date: 04 March 2026
-# Last modified: 04 March 2026
+# Title:  My own adlist for pihole          
+# Description: Blocklist
+# File created: 04 Mar 2026
+# Last modified: 04 Mar 2026          
 #
-twitch.tv
-www.twitch.tv
+
+xnxx.com
+eporner.com
+stripchat.com
+xvideos.com
+xhamster.com
+pornhub.com
