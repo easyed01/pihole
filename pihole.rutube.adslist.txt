@@ -1,0 +1,16 @@
+#rutube ads block
+
+yastatic.net
+avatars.mds.yandex.net
+ads.adfox.ru
+mc.yandex.ru
+cdn.uxfeedback.ru
+api.expf.ru
+test.rutube.ru
+wcm.weborama-tech.ru
+widget-api.uxfeedback.ru
+goya.rutube.ru
+c.gpmdata.ru
+pic.rtbcdn.ru
+premier-static.rtbcdn.ru
+preview.rutube.ru
