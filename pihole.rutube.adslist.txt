@@ -27,3 +27,7 @@ ssp.adriver.ru
 px.adhigh.net
 x01.aidata.io
 an.yandex.ru
+adx.com.ru
+sync.upravel.com
+static.cloudflareinsights.com
+global.stun.twilio.com
