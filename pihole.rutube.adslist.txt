@@ -28,4 +28,3 @@ px.adhigh.net
 x01.aidata.io
 adx.com.ru
 sync.upravel.com
-global.stun.twilio.com
