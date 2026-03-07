@@ -1,4 +1,4 @@
-#rutube ads block
+# rutube ads block
 
 yastatic.net
 avatars.mds.yandex.net
@@ -11,8 +11,8 @@ wcm.weborama-tech.ru
 widget-api.uxfeedback.ru
 goya.rutube.ru
 c.gpmdata.ru
-pic.rtbcdn.ru
+# pic.rtbcdn.ru
 premier-static.rtbcdn.ru
 preview.rutube.ru
 
-#kinozal ads
+# kinozal ads
