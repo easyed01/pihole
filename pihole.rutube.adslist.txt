@@ -14,5 +14,9 @@ c.gpmdata.ru
 # pic.rtbcdn.ru
 premier-static.rtbcdn.ru
 preview.rutube.ru
+www.tns-counter.ru
+cdn.vigo.tech
+951221.log.rutube.ru
+
 
 # kinozal ads
